@@ -1,0 +1,14 @@
+ <START:ELBOW> Cút 90 <END> <START:KT> KT  350x300 <END> bằng tôn tráng kẽm <START:thickness> dày 0.75 <END> mm, <START:material> mạ kẽm Z12 <END>
+ <START:ELBOW> Cút chuyển tiết diện 90 <END> <START:KT> KT 400x1000/1000x400 <END> bằng tôn tráng kẽm <START:thickness> dày 0,75 <END> mm, <START:material> mạ kẽm Z12 <END>
+ <START:ELBOW> Cút 45 <END> <START:KT> KT  750x300 <END> bằng tôn tráng kẽm <START:thickness> dày 0.75 <END> mm, <START:material> mạ kẽm Z12 <END>
+ <START:ELBOW> Cút 90 <END> <START:KT> KT  350x300 <END> bằng tôn tráng kẽm <START:thickness> dày 0.58 <END> mm, <START:material> mạ kẽm Z12 <END>
+ <START:ELBOW> Cút chuyển tiết diện 90 <END> <START:KT> KT 400x1000/1000x400 <END> bằng tôn tráng kẽm <START:thickness> dày 0.58 <END> mm, <START:material> mạ kẽm Z12 <END>
+ <START:ELBOW> Cút 45 <END> <START:KT> KT  750x300 <END> bằng tôn tráng kẽm <START:thickness> dày 0.95 <END> mm, <START:material> mạ kẽm Z12 <END>
+ <START:ELBOW> Cút 90 <END> <START:KT> KT  350x300 <END> bằng tôn tráng kẽm <START:thickness> dày 0.95 <END> mm, <START:material> mạ kẽm Z12 <END>
+ <START:ELBOW> Cút chuyển tiết diện 90 <END> <START:KT> KT 400x1000/1000x400 <END> bằng tôn tráng kẽm <START:thickness> dày 0.95 <END> mm, <START:material> mạ kẽm Z12 <END>
+ <START:ELBOW> Cút 45 <END> <START:KT> KT  750x300 <END> bằng tôn tráng kẽm <START:thickness> dày 0.95 <END> mm, <START:material> mạ kẽm Z12 <END>
+ <START:STRAIGHT_DUCT> Ống gió <END> <START:KT> 200x150 <END> bằng tôn tráng kẽm <START:thickness> dày 0.58 <END> mm, <START:material> mạ kẽm Z12 <END>
+ <START:STRAIGHT_DUCT> Ống gió <END> <START:KT> 200x150 <END> bằng tôn tráng kẽm <START:thickness> dày 0.75 <END> mm, <START:material> mạ kẽm Z12 <END>
+ <START:STRAIGHT_DUCT> Ống gió <END> <START:KT> 300x250 <END> bằng tôn tráng kẽm <START:thickness> dày 0.75 <END> mm, <START:material> mạ kẽm Z12 <END>
+ <START:STRAIGHT_DUCT> Ống gió <END> <START:KT> 1050x300 <END> bằng tôn tráng kẽm <START:thickness> dày 0.95 <END> mm, <START:material> mạ kẽm Z12 <END>
+ <START:STRAIGHT_DUCT> Ống gió <END> <START:KT> 300x250 <END> bằng tôn tráng kẽm <START:thickness> dày 0.95 <END> mm, <START:material> mạ kẽm Z12 <END>

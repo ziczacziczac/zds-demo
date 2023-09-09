@@ -1,0 +1,22 @@
+ <START:coolingCapacity> Công suất dàn lạnh <END> : <START:comparator> ≥ <END> <START:value> 232000 <END> <START:unit> W <END>
+ <START:heatingCapacity> Công suất dàn sưởi <END> : <START:comparator> ≥ <END> <START:value> 18000 <END> <START:unit> W <END>
+ <START:heatingCapacity> Công suất dàn sưởi <END> : <START:comparator> ≥ <END> <START:value> 7000 <END> <START:unit> W <END>
+ <START:mainFilterType> Bộ lọc <END> : <START:comparator> ≥ <END>  <START:value> G4/F7 <END>
+ <START:group_supplyFan> Quạt cấp gió <END>
+ <START:g|airflow> Lưu lượng quạt cấp <END> : <START:comparator> ≥ <END> <START:value> 13200 <END> <START:unit> m3/h <END>
+ <START:g|externalStaticPressure> Cột áp quạt cấp <END> : <START:comparator> ≥ <END> <START:value> 1.4 <END> <START:unit> kPa <END>
+ <START:g|fanPower> Nguồn điện <END> : <START:comparator> ≤ <END> <START:value> 11 <END> <START:unit> kW <END>
+ <START:group_returnFan> Quạt hồi <END>
+ <START:g|airflow> Lưu lượng quạt hồi <END> : <START:comparator> ≥ <END> <START:value> 8660 <END> <START:unit> m3/h <END>
+ <START:g|externalStaticPressure> Cột áp quạt cấp <END> : <START:comparator> ≥ <END> <START:value> 1.4 <END> <START:unit> kPa <END>
+ <START:g|fanPower> Nguồn điện <END> : <START:comparator> ≤ <END> <START:value> 11 <END> <START:unit> kW <END>
+ <START:filter> Bộ lọc <END> : <START:comparator> ≥ <END> <START:value> G4/F7 <END>
+ <START:group_uvLamp> Đèn UV <END>
+ <START:g|name> Khoang đèn UV <END>
+ <START:group_heatWheel> Bộ hồi nhiệt <END> :
+ <START:g|freshAirflow> Lưu lượng gió tươi <END> : <START:comparator> ≥ <END> <START:value> 6264 <END> <START:unit> m3/h <END>
+ <START:g|returnAirflow> Lưu lượng gió thải <END> : <START:comparator> ≥ <END> <START:value> 4330 <END> <START:unit> m3/h <END>
+ <START:g|hieu_suat_hoi_nhiet_lanh> Hiệu suất hồi nhiệt lạnh <END> : <START:comparator> ≥ <END> <START:value> 64% <END>
+ <START:g|cong_suat_lanh> Công suất lạnh <END> : <START:comparator> ≥ <END> <START:value> 93.6 <END> <START:unit> kW <END>
+ <START:g|hieu_suat_hoi_nhiet_lanh> Hiệu suất hồi nhiệt sưởi <END> : <START:comparator> ≥ <END> <START:value> 64% <END>
+ <START:g|cong_suat_suoi> Công suất sưởi <END> : <START:comparator> ≥ <END> <START:value> 10.7 <END> <START:unit> kW <END>

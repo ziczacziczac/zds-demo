@@ -1,0 +1,11 @@
+Loại: VRV/VRF
+ <START:coolingCapacity> Công suất lạnh <END> : <START:comparator> ≥ <END> <START:value> 112 <END> <START:unit> kW <END>
+ <START:heatingCapacity> Công suất sưởi <END> : <START:comparator> ≥ <END> <START:value> 125 <END> <START:unit> kW <END>
+ <START:numberOfModule> Số lượng Modul <END> : <START:comparator> ≥ <END> <START:value> 2 <END>
+ <START:coolingPowerConsumption> Điện năng tiêu thụ lạnh <END> : <START:comparator> ≤ <END> <START:value> 35.5 <END> <START:unit> kW <END>
+ <START:coolingPowerConsumption> Điện năng tiêu thụ lạnh <END> : <START:comparator> ≤ <END> <START:value> 43.65 <END> <START:unit> kW <END>
+ <START:heatingPowerConsumption> Điện năng tiêu thụ sưởi <END> : <START:comparator> ≤ <END> <START:value> 35.5 <END> 1 <START:unit> kW <END>
+ <START:heatingPowerConsumption> Điện năng tiêu thụ sưởi <END> : <START:comparator> ≤ <END> <START:value> 46.2 <END> 1 <START:unit> kW <END>
+ <START:powerSupply> Thông số điện <END> : <START:value> 3P/380-415V/50Hz <END>
+ <START:compressor> Loại máy nén <END> : <START:value> Xoắn ốc <END>
+ <START:soundPressureLevel> Độ ồn <END> : <START:comparator> ≤ <END> <START:value> 68 <END> <START:unit> dB(A) <END>
